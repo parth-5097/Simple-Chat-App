@@ -1,6 +1,6 @@
 ### Clone the repository:
 ```
-git clone https://github.com/SiddharthSsb11/MERN-chat-app.git
+git clone https://github.com/parth-5097/Simple-Chat-App.git
 ```
 
 ### Env Variables
